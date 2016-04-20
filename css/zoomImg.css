@@ -1,0 +1,9 @@
+.imgZoomContainer {
+    width: 200px;
+    overflow: hidden;
+    perspective: 1000px;    
+}
+
+.imgZoomContainer .img-zoom {
+    width: 100%;
+}
